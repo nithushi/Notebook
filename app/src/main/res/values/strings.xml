@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticalProject</string>
+    <string name="textView1">My Note Book</string>
+    <string name="button1">Create New Note</string>
+    <string name="textView2">Title</string>
+    <string name="textView3">Content</string>
+    <string name="button2">Save Note</string>
+</resources>
